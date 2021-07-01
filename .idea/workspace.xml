@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a27765da-78e1-4107-9034-e32c8b41be51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Donation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/ArrayKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/ArrayListKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/ForLoopKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/FunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/HashMapKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/HashMapOfKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/META-INF/Basic.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Basic/META-INF/Basic.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/NullSafetyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Ab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/AbstractKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Ac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/AccessKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Car1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Car2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Car3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Cons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/ConstructorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/EnumKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/ExtensionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Five.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Four$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Four.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Gen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Generic2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/GenericKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Inher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/InheritanceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/InterfaceCh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/InterfaceCheckKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/One.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Over.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/OverridingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/SimpleClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Single$Companion$instance$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Single$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Single.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/SingletonDesignKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Three.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OOP/Two.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/OverLoadingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/PolymorphismKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/PrintKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/ReadFromInputKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/SetOfKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/StringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/WhenKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayList.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForLoop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMapOf.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NullSafety.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Abstract.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Access.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Constructor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Enum.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Extensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Generic.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/InterfaceCheck.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Overriding.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/SimpleClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/SingletonDesign.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OverLoading.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polymorphism.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Print.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadFromInput.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SetOf.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/When.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectId" id="1uiqgS3gGFPzN4HNXLJwec9iEUZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546755960925" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.DonationKt">
+    <configuration name="DonationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DonationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP.EnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="OOP.EnumKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP.GenericKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="OOP.GenericKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP.OverridingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="OOP.OverridingKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP.SingletonDesignKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="OOP.SingletonDesignKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DonationKt" />
+        <item itemvalue="Application.OOP.EnumKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a27765da-78e1-4107-9034-e32c8b41be51" name="Default Changelist" comment="" />
+      <created>1546494454177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546494454177</updated>
+      <workItem from="1546494458192" duration="190000" />
+      <workItem from="1546494681256" duration="7565000" />
+      <workItem from="1546738025787" duration="15678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23433000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="59" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625160498511">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="59" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800/-1920.-66.1920.1080@0.0.1280.800" timestamp="1625160498511" />
+    <state width="1238" height="154" key="GridCell.Tab.0.bottom" timestamp="1625161290652">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="154" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-66.1920.1080@0.0.1280.800" timestamp="1625161290652" />
+    <state width="1238" height="154" key="GridCell.Tab.0.center" timestamp="1625161290646">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="154" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-66.1920.1080@0.0.1280.800" timestamp="1625161290646" />
+    <state width="1238" height="154" key="GridCell.Tab.0.left" timestamp="1625161290643">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="154" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-66.1920.1080@0.0.1280.800" timestamp="1625161290643" />
+    <state width="1238" height="154" key="GridCell.Tab.0.right" timestamp="1625161290649">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="154" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-66.1920.1080@0.0.1280.800" timestamp="1625161290649" />
+  </component>
+</project>
